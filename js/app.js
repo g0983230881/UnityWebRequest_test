@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/UnityWebRequest_Build.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/mongodbSchema_Build.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;

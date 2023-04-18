@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/webRequest_dashboard.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/webRequest_dashboard2.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;

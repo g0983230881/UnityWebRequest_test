@@ -1,0 +1,16 @@
+{
+"companyName": "com.psygame",
+"productName": "UnityWebsocket",
+"productVersion": "2.4.5",
+"dataUrl": "UnityWebRequest_test.data.unityweb",
+"wasmCodeUrl": "UnityWebRequest_test.wasm",
+"wasmFrameworkUrl": "UnityWebRequest_test.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
